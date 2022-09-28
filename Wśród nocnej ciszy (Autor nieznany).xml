@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2018-05-10T11:59:55">
+  <properties>
+    <titles>
+      <title>Wśród nocnej ciszy</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wśród nocnej ciszy głos się rozchodzi:<br/>Wstańcie, pasterze, Bóg się wam rodzi,<br/>Czem prędzej się wybierajcie <br/>Do Betlejem pospiszajcie<br/>przywitać Pana</lines>
+    </verse>
+  </lyrics>
+</song>

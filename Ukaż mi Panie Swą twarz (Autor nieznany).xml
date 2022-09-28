@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2018-05-10T11:59:55">
+  <properties>
+    <titles>
+      <title>Ukaż mi Panie Swą twarz</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Ukaż mi Panie swą twarz<br/>Daj mi usłyszeć Twój głos<br/>Bo słodki jest Twój głos<br/>i twarz pełna wdzięku<br/>Ukaż mi Panie swą twarz</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-18T06:47:47">
+  <properties>
+    <titles>
+      <title>Tylko śpiewać chcę</title>
+    </titles>
+    <authors>
+      <author>PM</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie, nie chodzi o mnie,<br/>jestem tu dla Ciebie<br/>nie chcę śpiewać pustych słów.<br/><br/>Nie, nie szukam wrażeń,<br/>szukam Ciebie Panie<br/>przyjmij chwałę z moich ust.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref :<br/>Ja tylko śpiewać chcę,<br/>jeśli z tego cieszysz się,<br/>jeśli to uwielbia Cię.<br/>Sam śpiew nie znaczy nic,<br/>jeśli serca nie ma w nim<br/>Najważniejszy jesteś Ty.<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie chcesz ideału,<br/>tylko dusze całą<br/>to co mam oddaję Ci.<br/><br/>Nie tylko śpiewem, co trwa przez chwile,<br/>a całym życiem chcę wielbić Ciebie,<br/>jeśli mam śpiewać to w jednym celu,<br/>wszelka chwała Panie Twoja jest. x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ref :<br/>Ja tylko śpiewać chcę,<br/>jeśli z tego cieszysz się,<br/>jeśli to uwielbia Cię.<br/>Sam śpiew nie znaczy nic,<br/>jeśli serca nie ma w nim<br/>Najważniejszy jesteś Ty. x2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-18T06:47:47">
+  <properties>
+    <titles>
+      <title>Tobie Chór Aniołów</title>
+    </titles>
+    <authors>
+      <author>PM</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tobie chór aniołów śpiewa nową pieśń<br/>Chwała Barankowi<br/>Tobie chór aniołów śpiewa nową pieśń<br/>Chwała Barankowi<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluja, Alleluja, Alleluja<br/>Chwała i cześć<br/><br/>Alleluja, Alleluja, Alleluja<br/>Chwała i cześć<br/><br/>Tobie, tylko Tobie,<br/>Tylko Tobie, Chwała i cześć!</lines>
+    </verse>
+  </lyrics>
+</song>
