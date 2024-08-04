@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:40">
+  <properties>
+    <titles>
+      <title>Adonai</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie, któż jak Ty, od wieków jest Twój tron,<br/>na wieki są Twe dni.<br/>Morza chwalą Cię, góry wznoszą pieśń,<br/>Tyś najwyższy jest x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bóg Adonai, od poranka aż po zmierzch  (C e D C D C)<br/>cała Ziemia Tobie śpiewa<br/>Bóg Adonai, całe Niebo chwali Cię,<br/>Jedynemu Bogu chwała cześć.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Bóg Adonai, od poranka aż po zmierzch<br/>cała Ziemia Tobie śpiewa<br/>Bóg Adonai, całe Niebo chwali Cię,<br/>Jedynemu Bogu chwała<br/>Bóg Adonai, od poranka aż po zmierzch<br/>cała Ziemia Tobie śpiewa<br/>Bóg Adonai, całe Niebo chwali Cię,<br/>Jedynemu Bogu chwała, cześć.</lines>
+    </verse>
+  </lyrics>
+</song>

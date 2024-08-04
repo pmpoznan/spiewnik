@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:41">
+  <properties>
+    <titles>
+      <title>Kocham więc nie muszę się bać</title>
+    </titles>
+    <verseOrder>o1 o2 o1 o3 o1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Kocham, więc nie muszę się bać<br/>zabierz mój strach! /x3<br/>Kocham, więc nie muszę się bać<br/>zabierz mój strach! /x3</lines>
+      <lines>Jezus drogą!<br/>Jezus prawdą!<br/>Jezus życiem! Oooo! (x4)<br/>Na na na na.. ooo Jezus! (x3)</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Jezus mówi ci, że miłość ta<br/>(którą daje Pan)<br/>zabiera strach,<br/>zabiera strach,<br/>zabiera strach (x3)</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Jezus daje ci miłość swą<br/>nie lękaj się! /x3<br/>Jezus daje ci miłość swą<br/>nie lękaj się! /x3</lines>
+    </verse>
+  </lyrics>
+</song>

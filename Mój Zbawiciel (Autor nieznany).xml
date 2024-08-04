@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:41">
+  <properties>
+    <titles>
+      <title>Mój Zbawiciel</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Mój Zbawiciel, On bardzo kocha mnie,<br/>Ja nie wiem czemu miłością darzy mnie.<br/>On mi nowe życie dzisiaj ofiarować chce.<br/>Będę, będę mieszkał razem z Panem mym. /2x</lines>
+    </verse>
+  </lyrics>
+</song>

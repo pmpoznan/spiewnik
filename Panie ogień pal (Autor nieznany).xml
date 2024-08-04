@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:42">
+  <properties>
+    <titles>
+      <title>Panie ogień pal</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Panie, ogień pal, wypal smutek i żal<br/>Wypal myśli natrętne, niechciane,<br/>wypal to, co winno być zapomniane</lines>
+    </verse>
+  </lyrics>
+</song>

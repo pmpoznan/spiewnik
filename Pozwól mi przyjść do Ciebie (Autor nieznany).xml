@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:42">
+  <properties>
+    <titles>
+      <title>Pozwól mi przyjść do Ciebie</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Pozwól mi przyjść do Ciebie<br/>Takim zwyczajnym jakim jestem<br/>Pozwól mi przyjść do Ciebie<br/>jednym łaskawym Twoim gestem</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Ty jesteś Mario taka czysta,<br/>jak łzy grzesznika, gdy żałuje<br/>Ty jesteś Mario taka dobra,<br/>to moje ludzkie serce czuje<br/>więc się ośmielam przyjść do ciebie<br/>tak, jak przed matką dziecko staje<br/>więc się ośmielam paść przez Tobą<br/>i całą nędzę Ci wyznaję</lines>
+    </verse>
+  </lyrics>
+</song>

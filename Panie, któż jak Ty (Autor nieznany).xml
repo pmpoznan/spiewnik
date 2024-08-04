@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:42">
+  <properties>
+    <titles>
+      <title>Panie, któż jak Ty</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Panie, któż jak Ty,<br/>od wieków jest Twój tron,<br/>na wieki są Twe dni.<br/>Morza chwalą Cię,<br/>góry wznoszą pieśń,<br/>Tyś najwyższy jest x2</lines>
+      <lines>Bóg Adonai,<br/>od poranka aż po zmierzch<br/>cała Ziemia Tobie śpiewa<br/>Bóg Adonai,<br/>całe Niebo chwali Cię,<br/>Jedynemu Bogu chwała cześć.</lines>
+    </verse>
+  </lyrics>
+</song>

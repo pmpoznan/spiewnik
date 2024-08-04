@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:42">
+  <properties>
+    <titles>
+      <title>Wypełnij duszę mą</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ja chcę być oczyszczony Panie z mych pomysłów<br/>Ja chcę być uwolniony z siebie <br/>i być pełny Miłości Twej / 2x</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wypełnij duszę mą,<br/>Wypełnij ciało me,<br/>Ja chcę być pełny Miłości Twej /2x</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Duch Pański nade mną,<br/>namaścił i posłał mnie. / 2x</lines>
+    </verse>
+  </lyrics>
+</song>

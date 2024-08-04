@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:41">
+  <properties>
+    <titles>
+      <title>Gdyby Pan nie był po naszej stronie</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdyby Pan nie był po naszej stronie<br/>kto by pozostał, kto by pozostać mógł,<br/>Jesteśmy wolni, wznosimy dłonie,<br/>aby pozostać, aby trwać przy Tobie /2x</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref. Alleluja, Panie przyjdź Królestwo Twoje,<br/>Alleluja, oddajemy Tobie cześć,<br/>Alleluja podnosimy nasze dłonie,<br/>Alleluja, uwielbiamy Imię Twe. </lines>
+    </verse>
+  </lyrics>
+</song>

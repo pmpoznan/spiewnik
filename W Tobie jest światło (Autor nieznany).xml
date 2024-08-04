@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:42">
+  <properties>
+    <titles>
+      <title>W Tobie jest światło</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>W Tobie jest światło, każdy mrok rozjaśni<br/>W Tobie jest życie, ono śmierć zwycięża<br/>Ufam Tobie Miłosierny<br/>Jezu wybaw nas</lines>
+    </verse>
+  </lyrics>
+</song>
