@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:41">
+  <properties>
+    <titles>
+      <title>Gdzie duch Pana jest obecny</title>
+      <title>Gdzie duch</title>
+    </titles>
+    <authors>
+      <author type="words">Autor nieznany</author>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdzie Duch Pana jest obecny Tam jest wolność<br/>Pokój Twój, radość Twa, miłość Twa     <br/>Dałeś mi wolność, bym wolnym był x 2 <br/>Jestem wolny, jestem wolny x 4         <br/>Będę chodził w wolności, Chodził wolności Twej   <br/>Będę tańczył w wolności, Tańczył w wolności Twej</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:40">
+  <properties>
+    <titles>
+      <title>Dotknij Ogniem PM N1 0004</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dotknij ogniem moją rękę /x2<br/>Dotknij ogniem moją rękę o Panie<br/>Dotknij ogniem moją nogę /x2<br/>Dotknij ogniem moją nogę o Panie<br/>Dotknij ogniem moją głowę /x2<br/>Dotknij ogniem moją głowę o Panie<br/>Dotknij ogniem moje serce  /x2<br/>Dotknij ogniem moje serce  o Panie<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>(Ja mówię:)<br/>Rękę, nogę, głowę, serce / x3 <br/><br/>Teraz czuję Twoją moc /x3 o Panie.</lines>
+    </verse>
+  </lyrics>
+</song>

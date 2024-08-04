@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:41">
+  <properties>
+    <titles>
+      <title>Jezu jesteś bohaterem</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>On zapalił dla nas słońce,<br/>dał nam księżyc by rozjaśnić noc.<br/>On na niebie przypiął gwiazdy i świecą nam.<br/>On nauczył ptaki śpiewać,<br/>marzeniami wciąż unosi nas.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Daje radość<br/>i zabawę każdego dnia.<br/>Jezu jesteś bohaterem<br/>Gwiazdą mą, przyjacielem.<br/>Jesteś super bohaterem,<br/>kochasz mnie tak jak brat.</lines>
+    </verse>
+  </lyrics>
+</song>

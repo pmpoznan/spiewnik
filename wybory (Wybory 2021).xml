@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:42">
+  <properties>
+    <titles>
+      <title>wybory</title>
+      <title>Wybory</title>
+    </titles>
+    <authors>
+      <author>Wybory 2021</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>WYBORY 2021<br/><br/>Wybierzcie mnie jeszcze raz <br/>obiecuje wam <br/>Wolne poniedziałki <br/>darmowe długopisy <br/>hot-doga z Żabki <br/><br/>Kamila Wróblewska </lines>
+    </verse>
+  </lyrics>
+</song>

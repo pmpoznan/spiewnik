@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:18:30">
+  <properties>
+    <titles>
+      <title>Mówię tak życiu</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tyś moją siłą, o Panie, moją skałą<br/>Tyś mą nadzieją Twe ramiona chronią mnie <br/>Oto ja niech mi się stanie według Twojej woli <br/>Oto ja niech mi się stanie według Twojej woli</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mówię TAK życiu<br/>mówię TAK wszystkiemu co mi dajesz. <br/>Mówię TAK życiu<br/>każdego dnia chwila po chwili<br/>Mówię TAK życiu, o Panie</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tyś moją siłą, o Panie, moją skałą<br/>Tyś mą nadzieją Twe ramiona chronią mnie <br/>Oto ja niech mi się stanie według Twojej woli <br/>Oto ja niech mi się stanie według Twojej woli</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Mówię TAK życiu<br/>mówię TAK wszystkiemu co mi dajesz. <br/>Mówię TAK życiu<br/>każdego dnia chwila po chwili<br/>Mówię TAK życiu, o Panie</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Nikt nie zabiera mi życia, to ja je ofiaruję<br/>Aby Twój plan we mnie spełnił się <br/>Aby Twój plan we mnie spełnił się</lines>
+    </verse>
+  </lyrics>
+</song>

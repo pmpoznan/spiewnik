@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:40">
+  <properties>
+    <titles>
+      <title>Duchu Święty wołam przyjdź (Przyjdź, Marana tha!)</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Duchu Święty wołam przyjdź x2<br/>Przyjdź, Marana tha! x2<br/>Marana tha! Marana tha! x4</lines>
+    </verse>
+  </lyrics>
+</song>

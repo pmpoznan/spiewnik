@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:41">
+  <properties>
+    <titles>
+      <title>Mów do mnie Panie</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Mów do mnie Panie<br/>Chcę słyszeć Cię<br/>Przyjąć od Ciebie, co masz dla mnie<br/>Nie chcę się chować, lecz w Tobie skryć<br/>W cieniu Twym Panie, chcę iść.</lines>
+      <lines>Święty, potężny jesteś<br/>Panie nasz<br/>Przed Tobą dziś<br/>możemy stać<br/>Dzięki łasce,<br/>nie dzięki nam samym.</lines>
+    </verse>
+  </lyrics>
+</song>

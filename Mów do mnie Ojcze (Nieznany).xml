@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:41">
+  <properties>
+    <titles>
+      <title>Mów do mnie Ojcze</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mów do mnie mój Ojcze<br/>Cichutko tak<br/>Sięgnij moich łez i smutku<br/>Usłysz Panie, kiedy płaczę<br/>Usłysz Panie mnie<br/>Usłysz Panie mnie</lines>
+    </verse>
+  </lyrics>
+</song>

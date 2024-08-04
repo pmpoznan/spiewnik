@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:42">
+  <properties>
+    <titles>
+      <title>Twe drogi są najlepsze, najlepsze dla mnie są</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Twe drogi są najlepsze, najlepsze dla mnie są<br/>Ty Panie wiesz najlepiej, co dla mnie dobre jest<br/>I zawsze troszczysz się, bo bardzo mnie kochasz mnie</lines>
+    </verse>
+  </lyrics>
+</song>

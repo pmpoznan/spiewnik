@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2022-09-09T10:35:09">
+  <properties>
+    <titles>
+      <title>#ec 4 komunia Zbliżam się</title>
+    </titles>
+    <authors>
+      <author>Hymn sw. Tomasza</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zbliżam sie w pokorze i niskości swej,<br/>Wielbię Twój majestat, skryty w Hostii tej.<br/>Tobie dziś w ofierze serce daje swe,<br/>O, utwierdzaj w wierze, Jezu, dzieci Twe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mylą się, o Boże, w Tobie wzrok i smak,<br/>Kto się im poddaje, temu wiary brak.<br/>ja jedynie wierzyc, twej nauce chcę,<br/>Że w posaci Chleba, utaiłeś się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bóstwo swe na krzyżu skryłeś wobec nas,<br/>Tu ukryte z Bóstwem Człowieczenstwo wraz;<br/>Lecz w Oboje wierząc, wiem, że dojdę tam,<br/>Gdzieś przygarnął łotra: do Twych niebios bram.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jak niewierny Tomasz Twych nie szukam ran,<br/>Lecz wyznaję z wiarą, żes mój Bóg i Pan.<br/>Pomóż wierze mojej, Jezu, łaską swą,<br/>Ożyw mą nadzieję, rozpal miłość mą. </lines>
+    </verse>
+  </lyrics>
+</song>

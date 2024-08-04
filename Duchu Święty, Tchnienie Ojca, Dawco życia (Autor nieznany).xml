@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:40">
+  <properties>
+    <titles>
+      <title>Duchu Święty, Tchnienie Ojca, Dawco życia</title>
+    </titles>
+    <verseOrder>o1 o1 o2 o2</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Duchu Święty, Tchnienie Ojca, Dawco życia.<br/>Duchu Święty, Źródło wody żywej w nas.</lines>
+      <lines>Tak pragniemy Ciebie Panie,<br/>jak spękana ziemia deszczu,<br/>jak pustynia kropli wody,<br/>Duchu, przyjdź.</lines>
+    </verse>
+    <verse name="o2">
+      <lines break="optional">Duchu Święty, Tyś Mądrością niezmierzoną.<br/>Duchu Święty, Ty oświetlasz drogi nam.</lines>
+      <lines>I prowadzisz nas do domu,<br/>gdzie mieszkanie przed wiekami<br/>przygotował dla nas Ojciec,<br/>Duchu, przyjdź.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:29:22">
+  <properties>
+    <titles>
+      <title>Bóg jest po mojej prawicy PM N10 0009</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bóg jest po mojej prawicy<br/>Bóg jest po mojej lewicy<br/>Bóg jest u boku,<br/>jest na górze,<br/>jest na dole,<br/>jest w moim sercu</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Moja radość jest w Jezusie! x3</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bóg jest w mojej rodzinie<br/>Bóg jest we wszystkim co czynie<br/>Bóg jest u boku,<br/>jest na górze,<br/>jest na dole,<br/>jest w moim sercu</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2022-10-05T21:32:10">
+  <properties>
+    <titles>
+      <title>Ja potrzebuję Ciebie</title>
+    </titles>
+    <authors>
+      <author>Autor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjdź Duchu Święty, przyjdź! Niepojęty,<br/>Przyjdź! Objaw serce swoje mi. <br/><br/>Ja potrzebuję Ciebie<br/>i miłości Twej.<br/>Ja potrzebuję Ciebie,<br/>Duchu Święty wiej!</lines>
+    </verse>
+  </lyrics>
+</song>

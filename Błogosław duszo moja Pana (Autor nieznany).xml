@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:40">
+  <properties>
+    <titles>
+      <title>Błogosław duszo moja Pana</title>
+    </titles>
+    <verseOrder>o1 o1 o1 b1 o1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="b1">
+      <lines>Błogosławcie Pana - wszyscy aniołowie,<br/>Błogosławcie Pana - wszyscy Jego ludzie,<br/>Błogosławcie Pana - wszystkie Jego dzieła,<br/>Błogosławcie Go!</lines>
+    </verse>
+    <verse name="o1">
+      <lines break="optional">Błogosław duszo moja Pana<br/>wszystko co we mnie,<br/>Jego Najświętsze Imię!<br/>Błogosław duszo moja Pana<br/>Jego dobroci,<br/>nigdy nie zapominaj! (x2)</lines>
+      <lines break="optional">On odpuszcza wszystkie Twoje grzechy,<br/>(Leczy wszystkie twoje choroby!)<br/>Okazuje Swoje Miłosierdzie,<br/>(On ratuje Ciebie od zguby!)</lines>
+      <lines>On napełnia twoje życie dobrem,<br/>(Aż odnowi się Twoja młodość jak u orła!)<br/>Nie odpłaca według grzechów,<br/>Nie chce wiecznie gniewać się,<br/>On pamięta żeśmy prochem,<br/>On najlepiej wie!</lines>
+    </verse>
+    <verse name="o2">
+      <lines break="optional">Tak jak ojciec nad swoimi dziećmi,<br/>(Pan lituje się nad pokornym!)<br/>On oddala od nas nasze winy,<br/>(Jak daleko wschód od zachodu!)</lines>
+      <lines>Jak wysoko niebo jest nad ziemią,<br/>(Tak jest wielka dobroć dla ludzi, którzy się go boją!)<br/>Dni człowieka są jak trawa,<br/>Kwitnie on jak polny kwiat,<br/>Kiedy mocniej wiatr zawieje,<br/>Znika po nim ślad!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:42">
+  <properties>
+    <titles>
+      <title>Przybieżeli do betlejem</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Przybieżeli do Betlejem pasterze,<br/>Grając skocznie dzieciąteczku na lirze.<br/>Chwała na wysokości, chwała na wysokości<br/>A pokój na ziemi.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Oddawali swe ukłony w pokorze<br/>Tobie serca ochotnego, o Boże!<br/>Chwała na wysokości...<br/><br/>Anioł Pański sam ogłosił te dziwy,<br/>Których oni nie słyszeli, jak żywi.<br/>Chwała na wysokości...<br/><br/>Dziwili się napowietrznej muzyce<br/>i myśleli, co to będzie za Dziecię?<br/>Chwała na wysokości...</lines>
+    </verse>
+  </lyrics>
+</song>
