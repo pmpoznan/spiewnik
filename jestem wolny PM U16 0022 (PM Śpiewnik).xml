@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2021-09-17T21:08:41">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2024-11-16T09:59:33">
   <properties>
     <titles>
       <title>jestem wolny PM U16 0022</title>
@@ -15,10 +15,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Jestem wolny, wybawiony.<br/>Jestem wolny, odkupiony. <br/>Zbawił mnie Pan! /x3</lines>
+      <lines>Jestem wolny, wybawiony.<br/>Jestem wolny, odkupiony. <br/>Zbawił mnie Pan!</lines>
     </verse>
     <verse name="c1">
-      <lines>Dla mnie wziąłeś krzyż,<br/>Dla mnie umarłeś<br/>Dla mnie przelałeś krew<br/>Dla mnie, dla mnie!<br/></lines>
+      <lines>Dla mnie wziąłeś krzyż, <br/>dla mnie umarłeś.<br/>Dla mnie przelałeś krew,<br/>dla mnie, to dla mnie!<br/></lines>
     </verse>
   </lyrics>
 </song>
